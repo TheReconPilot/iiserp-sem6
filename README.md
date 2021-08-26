@@ -1,4 +1,9 @@
 # IISER Pune Sem 6
+---
+
+This repository is archived. See the latest iteration at [iplug-iiserp/aug-2021](https://github.com/iplug-iiserp/aug-2021).
+
+---
 
 A Links page for Semester 6 of IISER Pune
 
